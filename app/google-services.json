@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380000766600",
+    "project_id": "my-pass-f3d13",
+    "storage_bucket": "my-pass-f3d13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380000766600:android:62eb85a8453cae5b45ad3d",
+        "android_client_info": {
+          "package_name": "com.mypass.pass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSYWDWAc1bUNL-m2OS-s8HUmbR48B-OxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

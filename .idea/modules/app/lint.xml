@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconDuplicates">
+        <ignore path="C:/Users/Allurkar Sushanth/AndroidStudioProjects/MyPass/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" />
+    </issue>
+</lint>
