@@ -31,14 +31,19 @@ character.
 
 2. Login: 
 • User can login using the provided credentials during the registration process.
+
 • The Login form also consists of the validation and check if the user exists in database.
+
 • The user will be navigated to the profile screen upon successful Login.
 
 3. Password reset with email:
+
 • Users are presented with a button for securely resetting their password using email sent 
 to their registered email id.
+
 • Implemented using firebase, this method provides user a safe way to reset their 
 password while ensuring user is valid.
+
 4. Sign-Out: Users can sign-out from the app using a button.
 
 5. Pass Purchase: Users can seamlessly browse through a variety of pass options, each offering 
