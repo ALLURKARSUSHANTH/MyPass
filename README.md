@@ -21,9 +21,12 @@ Functionalities of the app :
 
 1.User Registration: 
 • Users register by providing their email address and creating a strong password.
+
 • The system ensures that the password meets security requirements, including:
+
 • Contains at least one uppercase letter, one lowercase letter, one digit, and one special 
 character.
+
 • Has a minimum character length of 8 characters to enhance password strength.
 
 2. Login: 
