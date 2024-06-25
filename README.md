@@ -1,21 +1,7 @@
 # MyPass
-Description:My Pass: A Digital Bus Pass Application for Easy Pass Management. My Pass is a 
-comprehensive bus pass management app designed for Android using Kotlin and Jetpack 
-Compose. The app provides a user-friendly interface for applying for new bus passes, renewing
-existing passes, and managing pass details. Leveraging Firebase backend services, My Pass 
-ensures secure user authentication, real-time data updates, and efficient data storage. The 
-integration with Firebase enables users to access their pass information from multiple devices, 
-enhancing the app’s accessibility and convenience. One of the key features of My Pass is its 
-integration with Firebase Authentication, allowing users to securely log in and manage their 
-bus pass information. The app also utilizes Firebase Realtime Database to store and retrieve 
-pass details, ensuring that users always have up-to-date information. Additionally, My Pass 
-leverages Firebase Cloud Functions to perform backend operations, such as generating pass Ids 
-and managing pass expiration dates, providing a seamless experience for users. My Pass is built 
-using the latest technologies, including Jetpack Compose, to create a modern and intuitive user 
-interface. The app’s design focuses on simplicity and ease of use, ensuring that users can easily 
-navigate and interact with the application. With its user centric design and robust backend 
-infrastructure, My Pass aims to revolutionize the way users manage their bus passes, making 
-the process more efficient and accessible.
+
+
+Description: My Pass is an Android app for easy bus pass management, built with Kotlin and Jetpack Compose. It allows users to apply for and manage bus passes. Using Firebase for authentication, real-time data, and cloud functions, My Pass ensures secure access and up-to-date pass information across devices. The app features a modern, user-friendly design for a seamless experience. 
 
 Functionalities of the app :
 
