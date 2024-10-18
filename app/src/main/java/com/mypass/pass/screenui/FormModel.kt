@@ -1,6 +1,6 @@
-    package com.mypass.pass.screenui
+package com.mypass.pass.screenui
 
-    import android.net.Uri
+import android.net.Uri
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
